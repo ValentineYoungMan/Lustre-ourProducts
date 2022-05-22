@@ -514,9 +514,9 @@ body._lock {
 }
 
 .no-webp .block1{
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(24, 24, 29, 0.45)), to(rgba(24, 24, 29, 0.45))), url("../img/block1-background.jpg");
-  background-image: -o-linear-gradient(top, rgba(24, 24, 29, 0.45), rgba(24, 24, 29, 0.45)), url("../img/block1-background.jpg");
-  background-image: linear-gradient(180deg, rgba(24, 24, 29, 0.45), rgba(24, 24, 29, 0.45)), url("../img/block1-background.jpg"); }
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(24, 24, 29, 0.45)), to(rgba(24, 24, 29, 0.45))), url("../img/Block1-background.jpg");
+  background-image: -o-linear-gradient(top, rgba(24, 24, 29, 0.45), rgba(24, 24, 29, 0.45)), url("../img/Block1-background.jpg");
+  background-image: linear-gradient(180deg, rgba(24, 24, 29, 0.45), rgba(24, 24, 29, 0.45)), url("../img/Block1-background.jpg"); }
 
 .block1 {
   padding: 70px 0px;
@@ -1610,4 +1610,4 @@ body._lock {
   }
 }
 
-.webp .block1{ background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(24, 24, 29, 0.45)), to(rgba(24, 24, 29, 0.45))), url(../img/block1-background.webp); background-image: -o-linear-gradient(top, rgba(24, 24, 29, 0.45), rgba(24, 24, 29, 0.45)), url(../img/block1-background.webp); background-image: linear-gradient(180deg, rgba(24, 24, 29, 0.45), rgba(24, 24, 29, 0.45)), url(../img/block1-background.webp); }
+.webp .block1{ background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(24, 24, 29, 0.45)), to(rgba(24, 24, 29, 0.45))), url(../img/Block1-background.webp); background-image: -o-linear-gradient(top, rgba(24, 24, 29, 0.45), rgba(24, 24, 29, 0.45)), url(../img/Block1-background.webp); background-image: linear-gradient(180deg, rgba(24, 24, 29, 0.45), rgba(24, 24, 29, 0.45)), url(../img/Block1-background.webp); }
